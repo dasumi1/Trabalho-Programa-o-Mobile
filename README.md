@@ -21,4 +21,4 @@
 * O aplicativo deve ter um botão para alterar o sinal do número atual no visor (`+/-`).
 
 
-![Protótipo](image.png)
+![Protopto](image.png)
